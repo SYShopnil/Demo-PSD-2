@@ -1,0 +1,35 @@
+/*Qlassik bold*/
+@font-face{
+	font-family:"qlassik bold";
+	/*ttf*/
+	src:url("font/Qlassik_bold/FontsFree-Net-QlassikBold_TB.ttf") format("trutype"),
+	/*woff*/
+	url("font/Qlassik_bold/QlassikBold.woff") format("woff"),
+	/*svg*/
+	url("font/Qlassik_bold/QlassikBold.svg#QlassikBold") format("svg"),
+	/*eot*/
+	url("font/Qlassik_bold/FontsFree-Net-QlassikBold_TB.eot") format("eot");
+}
+@font-face{
+	font-family:"trebuc";
+	/*ttf*/
+	src:url("font/trebuchet-ms-2-cufonfonts/Trebuchet-MS-Italic.ttf") format("trutype"),
+	/*woff*/
+	url("font/trebuchet-ms-2-cufonfonts/TrebuchetMS.woff") format("woff"),
+	/*svg*/
+	url("font/trebuchet-ms-2-cufonfonts/TrebuchetMS.svg#trebuc") format("svg"),
+	/*eot*/
+	url("font/trebuchet-ms-2-cufonfonts/trebuc.eot") format("eot");
+}
+
+@font-face{
+	font-family:"georgia";
+	/*ttf*/
+	src:url("font/trebuchet-ms-2-cufonfonts/georgia italic.ttf") format("trutype"),
+	/*woff*/
+	url("font/trebuchet-ms-2-cufonfonts/Georgia-Italic.woff") format("woff"),
+	/*svg*/
+	url("font/trebuchet-ms-2-cufonfonts/Georgia-Italic.svg#georgia") format("svg"),
+	/*eot*/
+	url("font/trebuchet-ms-2-cufonfonts/georgia italic.eot") format("eot");
+}
